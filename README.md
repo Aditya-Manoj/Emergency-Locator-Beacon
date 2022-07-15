@@ -8,3 +8,6 @@ A tracker device operating using GSM(Global Systems for Mobile Communications) f
  - 18650 3.7v Li-ion Battery
 
 ![Circuit Designed using Fritzing](https://github.com/Aditya-Manoj/Emergency-Locator-Beacon/blob/main/assets/images/fritzing%20circuit.png)
+![Hardware Circuit](https://github.com/Aditya-Manoj/Emergency-Locator-Beacon/blob/main/assets/images/circuit.png)
+![Obtained location on Google Maps](https://github.com/Aditya-Manoj/Emergency-Locator-Beacon/blob/main/assets/images/Google%20Maps%20Location.png)
+![Periodic display of Location Data on Website](https://github.com/Aditya-Manoj/Emergency-Locator-Beacon/blob/main/assets/images/webpage%201.png)
