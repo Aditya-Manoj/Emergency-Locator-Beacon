@@ -1,0 +1,29 @@
+h1 {
+    font-style: italic;
+}
+
+/* .d-flex.p-2.bd-highlight.justify-content-center {
+    font-style: italic;
+    font-size: 60px;
+    font-family: cursive;
+} */
+
+#header {
+    /* font-style: italic; */
+    font-size: 60px;
+    display: flex;
+    /* font-family: cursive; */
+    
+
+    font-family: 'Quicksand', sans-serif;
+}
+
+#deviceinfo {
+    /* font-style: italic; */
+    font-size: 20px;
+    display: flex;
+    /* font-family: cursive; */
+    
+
+    font-family: 'Quicksand', sans-serif;
+}
