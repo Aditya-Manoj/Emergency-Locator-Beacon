@@ -7,6 +7,14 @@ A tracker device operating using GSM(Global Systems for Mobile Communications) f
  - GPS - Ublox NEO6M Module
  - 18650 3.7v Li-ion Battery
 
+## Features
+ - Location Accuracy - 10 meters
+ - Adjustable Periodicity of Location updates
+ - Cellular 2G Communication
+ - Data updation on Custom created website
+ - Secure access to data using user specific device ID
+
+## Results
 ![Circuit Designed using Fritzing](https://github.com/Aditya-Manoj/Emergency-Locator-Beacon/blob/main/assets/images/fritzing%20circuit.png)
 ![Hardware Circuit](https://github.com/Aditya-Manoj/Emergency-Locator-Beacon/blob/main/assets/images/circuit.png)
 ![Obtained location on Google Maps](https://github.com/Aditya-Manoj/Emergency-Locator-Beacon/blob/main/assets/images/Google%20Maps%20Location.png)
