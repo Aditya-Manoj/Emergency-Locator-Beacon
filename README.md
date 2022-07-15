@@ -6,3 +6,5 @@ A tracker device operating using GSM(Global Systems for Mobile Communications) f
  - GSM - SIM800L
  - GPS - Ublox NEO6M Module
  - 18650 3.7v Li-ion Battery
+
+![Circuit Designed using Fritzing](/assets/images/fritzing circuit.png)
